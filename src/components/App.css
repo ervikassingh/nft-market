@@ -1,0 +1,119 @@
+.token,.homeimage{
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.iconimage{
+  height: 40px;
+}
+.container{
+  margin-top: 120px;
+  margin-bottom: 80px;
+}
+.navbar-brand{
+  margin: 5px;
+}
+.profile{
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+}
+td {
+  white-space: normal !important; 
+  word-wrap: break-word;  
+}
+table {
+  table-layout: fixed;
+}
+
+/* navbar-adj */
+.navbar-adj{box-shadow: 0 0px 20px -5px #77777777;height:80px}
+.navbar-brand {
+  padding: 7px 15px;
+  font-size: 22px;
+  font-family: Avenir Next,Avenir,Avenir Next Local,sans-serif!important;
+  font-weight: 600;
+  /* border-radius: 20px 20px 0px 0px; */
+  border-radius:20px 0px 20px 0px;
+  color: #3087dd !important;
+  background: #fff;
+  /* box-shadow: inset 0px -13px 20px -15px #3087dd; */
+}
+/* nft-detail */
+.nft-detail-adj .table-adj tr th, .table-adj tr td {padding: 15px;}
+.nft-detail-adj .table-adj tr th{background-color: #30dcdb33;width: 20%;}
+.nft-detail-adj .table-adj tr{border: 1px solid #80808052;}
+.nft-detail-adj .table-adj {margin:0 3em}
+
+/* home */
+/* .home-adj .wrapper,.form-wrapper {border: 1px solid #8080802b;height: fit-content;box-shadow:0 0px 20px -3px #77777721}
+.home-adj .heading-container h1,.form-wrapper h3 {padding: 0.3em 1em 0.3em 0.3em;background: aliceblue;font-size: 36px;} */
+.home-adj,.explore-adj,.my-collect-adj,.mint-token-adj,.create-mint-adj,.nft-detail-adj{
+  padding:5rem 1.5rem;
+  border: 1px solid #21252914;
+  margin-top: -20px;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 1px 4px 0 rgb(0 0 0 / 14%);
+}
+
+/* explore-adj */
+.explore-adj .card,.my-collect-adj .card{box-shadow:0 0px 20px -3px #77777777;}
+.explore-adj .card:hover,.my-collect-adj .card:hover{box-shadow:0 0px 25px -2px #2062f077;}
+.explore-adj a,.my-collect-adj a{text-decoration: none;color:#000}
+
+
+/* .token {width: 100%;} */
+
+/* footer */
+.footer-adj,.navbar-adj {background-color: #3087dd !important;color: #fff;}
+.footer-adj p {margin-top: 1rem;margin-bottom: 1rem;}
+
+.max-250{
+  height: 250px;
+  width: 100%;
+}
+
+.max-300{
+  height: 300px;
+  width: 100%;
+}
+
+.text-title {
+  text-transform: uppercase;
+  color: rgb(255 255 255);
+  font-size: 14px;
+  font-weight: 600;
+  font-family: Avenir Next,Avenir,Avenir Next Local,sans-serif!important;
+  line-height: 1.5;
+  padding: 2px 8px;
+  background: #3031dc;
+  width: fit-content;
+  margin: 10px;
+
+}
+.head-title {
+  display: inline-block;
+  background: #970097cf;
+  color: #fff;
+  border-radius: 5px;
+  padding: 5px 20px;
+}
+
+.wrapper {
+  display: grid;
+}
+body {
+  background-color: #eee;
+}
+.btn-primary
+{
+  background-color:#00b9eb
+}
+.eth-class{
+  height: 20px;
+  margin: 0px 5px;
+  padding-bottom: 5px;
+}
