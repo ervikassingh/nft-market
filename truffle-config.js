@@ -1,6 +1,6 @@
 const HDWalletProvider = require('@truffle/hdwallet-provider');
 const provider = new HDWalletProvider({
-  privateKeys: ['YOUR-PRIVATE-KEY-HERE'],
+  privateKeys: ['7addbf129b11b53039e7b7fa9b1f348f52dbf26b4cf4aeb77e3aa82cc098ea99'],
   providerOrUrl: 'https://data-seed-prebsc-1-s1.binance.org:8545/'
 });
 
