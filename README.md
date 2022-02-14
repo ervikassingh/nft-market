@@ -11,8 +11,4 @@ Step 2 - Run command - truffle migrate --reset
 
 Run command - npm start
 
-# Connect with me regarding any queries
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/ervikassingh/60min-blockchain" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
+Connect with me if you have any queries [Click Here To Connect](https://calendly.com/ervikassingh/60min-blockchain)
