@@ -72,7 +72,7 @@ class App extends Component {
         </Router>
 
         <footer className="page-footer fixed-bottom bg-light rounded footer-adj">
-          <p className="text-center"> © Copyright Ebizon Pvt. Ltd. </p>
+          <p className="text-center"> </p>
         </footer>
       </div>
     );
