@@ -10,6 +10,3 @@ Step 2 - Run command - truffle migrate --reset
 # Start Frontend
 
 Run command - npm start
-
-# Connect with me if you have any queries 
-[Click Here To Connect](https://calendly.com/ervikassingh/60min-blockchain)
